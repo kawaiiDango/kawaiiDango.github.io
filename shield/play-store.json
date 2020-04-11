@@ -1,6 +1,10 @@
 {
   "schemaVersion": 1,
-  "label": "download",
-  "message": "Play Store",
-  "color": "#279f65"
+  "label": "Store",
+  "message": "Download",
+  "color": "#279f65",
+  "namedLogo": "google play",
+  "logoColor": "#ffffff",
+  "style": "for-the-badge"
 }
+
